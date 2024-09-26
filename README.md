@@ -1,5 +1,5 @@
 # 💫About Me :
- Data Science/ Data Analitycs
+Data Science/ Data Analitycs
 Currently studying QA Manual and Automation
 Always improving my tech skills and as a person
 
